@@ -21,6 +21,4 @@ int main(){
 	
 	added some code
 
-	printf("%d\n", strncmp(id1,id2,4));
-
 }
