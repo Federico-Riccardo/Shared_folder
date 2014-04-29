@@ -14,8 +14,6 @@ int main(){
 	printf("%ld %ld\n", sizeof(*ArrX), sizeof(*(ArrX[i])));
 	printf("%ld %ld %ld\n", sizeof(char), sizeof(char  *), sizeof("a"));
 
-	deleted some code here
-
 	char *id1 = "ciao";
 	char *id2 = "ciao2";
 	
