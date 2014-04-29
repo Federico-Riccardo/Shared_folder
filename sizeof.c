@@ -19,6 +19,6 @@ int main(){
 	char *id1 = "ciao";
 	char *id2 = "ciao2";
 	
-	added some code
+	printf("%d\n", strncmp(id1,id2,4));
 
 }
